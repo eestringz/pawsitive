@@ -1,8 +1,19 @@
 # Pawsitive
 
-# 시연 시나리오
 
-## 1단계
+## 1. 서비스 소개
+유기견 문제는 오랫동안 사회적 이슈로 지적되어 왔습니다. 유기견 입양률은 매우 낮은 편이며, 입양 후에도 많은 반려동물이 유기되거나 파양되는 실정입니다. 이는 반려동물에 대한 올바른 이해와 책임감 부족, 입양 과정의 어려움, 입양 후 관리의 어려움 등이 주요 원인으로 지적되고 있습니다.
+
+프로젝트를 시작하기 전에 팀원들과 함께 유기견 보호소에 봉사활동을 다녀왔습니다. 그곳에서 직접 입양 실태와 보호소 환경을 보고 느끼며 유기견 지원 서비스의 필요성을 체감했고, 이 경험을 바탕으로 프로젝트의 방향성과 기능을 설계했습니다. 이를 통해 사용자에게 진정성 있고 효과적인 지원 서비스를 제공하고자 했습니다.
+
+이에 본 프로젝트는 빅데이터 기반의 추천 기술과 AI 기술을 활용하여 사용자의 선호도와 특성에 맞는 유기견을 추천하고, 입양 전부터 입양 후까지 체계적인 지원 서비스를 제공함으로써 유기견 입양률 제고와 파양률 감소를 목표로 합니다. 또한 유기견에 대한 이해와 관심을 높이고, 반려동물 돌봄에 필요한 정보와 도구를 제공하여 책임감 있는 반려동물 문화 조성에 기여하고자 합니다.
+
+<br />
+<br />
+
+## 2. 시연 시나리오
+
+### 1단계
 | 홈 | 입양단계 | 펫과사전 | 펫과사전 |
 | --- | --- | --- | --- |
 | ![Group_2](/exec/imgs/pawsitive_1.png) | ![Group_26](/exec/imgs/pawsitive_2.png) | ![Group_28](/exec/imgs/pawsitive_3.png) | ![Group_30](/exec/imgs/pawsitive_4.png) |
@@ -13,7 +24,7 @@
 | ![Group_32](/exec/imgs/pawsitive_5.png) | ![Group_33](/exec/imgs/pawsitive_6.png) | ![Group_53](/exec/imgs/pawsitive_51.png) | ![Group_53](/exec/imgs/pawsitive_51.png) |
 | - 펫과사전 상세 페이지로 이동합니다 | - 홈 화면의 <포지티버가 되어 볼까요> 카드를 눌러 포지티버 페이지로 이동합니다 <br/> - [준비됐어요!] 버튼을 눌러 다음 단계로 넘어갑니다 |  |  |
 
-## 2단계
+### 2단계
 | 홈 | 유기견공고 상세 | 유기견공고 | 유기견공고 |
 | --- | --- | --- | --- |
 | ![Group_38](/exec/imgs/pawsitive_7.png) | ![Group_37](/exec/imgs/pawsitive_8.png) | ![Group_36](/exec/imgs/pawsitive_9.png) | ![Group_35](/exec/imgs/pawsitive_10.png) |
@@ -34,7 +45,7 @@
 | ![Group_21](/exec/imgs/pawsitive_19.png) | ![Group_20](/exec/imgs/pawsitive_20.png) | ![Group_53](/exec/imgs/pawsitive_51.png) | ![Group_53](/exec/imgs/pawsitive_51.png) |
 | - [설문 작성 완료]를 클릭하여 입양 전 설문을 완료합니다. | - 설문을 완료하면 [확인]을 클릭하여 메인페이지로 이동합니다. |  |  |
 
-## 3단계
+### 3단계
 | 홈 | 찜한 공고| 유기견 상세 | 펫과사전 |
 | --- | --- | --- | --- |
 |![Group_3](/exec/imgs/pawsitive_21.png)|![Group_4](/exec/imgs/pawsitive_22.png)|![Group_5](/exec/imgs/pawsitive_23.png)|![Group_6](/exec/imgs/pawsitive_24.png)|
@@ -62,13 +73,13 @@
 | 입양 확정 문구를 확인합니다.[<]를 클릭하여 페이지를 되돌아갑니다.  | | | |
 
 
-## 4단계
+### 4단계
 | 홈 | 홈 | | |
 | --- | --- | --- | --- |
 | ![Group_39](/exec/imgs/pawsitive_38.png) | ![Group_40](/exec/imgs/pawsitive_39.png) | ![Group_53](/exec/imgs/pawsitive_51.png) | ![Group_53](/exec/imgs/pawsitive_51.png) |
 | - [이름 지으러 가기]를 클릭해 반려견의 정보를 수정하는 모달을 띄웁니다 | - 반려견 사진, 이름, 나이, 무게 등을 수정할 수 있습니다 |  |  |
 
-# 5단계
+### 5단계
 | 홈 | 홈| 오늘의 질문 입력| 오늘의 질문 |
 | --- | --- | --- | --- |
 |![Group_41](/exec/imgs/pawsitive_40.png)|![Group_42](/exec/imgs/pawsitive_41.png)|![Group_43](/exec/imgs/pawsitive_42.png)|![Group_44](/exec/imgs/pawsitive_43.png)|
@@ -79,8 +90,15 @@
 |![Group_45](/exec/imgs/pawsitive_44.png)|![Group_46](/exec/imgs/pawsitive_45.png)|![Group_47](/exec/imgs/pawsitive_46.png)|![Group_53](/exec/imgs/pawsitive_51.png)|
 | 해당일까지 받아본 오늘의 질문을 모아볼 수 있습니다 <br> <br>각각의 <오늘의 질문>을 클릭하면 해당 질문과 질문에 대한 답변 상세 조회 페이지로 이동합니다 | [홈] 화면에서 조회수 순으로 가장 인기있는 커뮤니티 게시물을 모아볼 수 있습니다 <br> <br><인기있는 게시물>을 클릭해 커뮤니티 글 상세 조회 페이지로 이동합니다 | 커뮤니티 게시글 상세 페이지에서 게시글 조회 후 [<] 버튼을 통해 다시 홈 화면으로 돌아갑니다 |  |
 
-## 발자국
+### 발자국
 | 발자국 등록 | 발자국 상세 | 발자국 지도뷰 | 발자국 |
 | --- | --- | --- | --- |
 | ![Group_51](/exec/imgs/pawsitive_47.png) | ![Group_49](/exec/imgs/pawsitive_48.png) | ![Group_52](/uploads/bf1ffbb9663f66d408a86d31a0ba9f95/Group_49.png) | ![Group_48](/uploads/537e7d21b030361f3ee3281adef0e12e/Group_50.png) |
 | - 커뮤니티 글을 작성할 수 있습니다<br />- 사진과 글 제목, 글 공개 여부, 카테고리, 내용, 기록할 위치 등을 입력하고 [완료] 버튼을 클릭해 글을 등록합니다<br />- 글을 등록하면 방금 작성한 글의 상세 페이지로 이동합니다 | - 커뮤니티 글 상세 페이지입니다 <br />- [<] 버튼을 눌러 커뮤니티 글을 모아볼 수 있습니다 | - [지도보기]를 클릭해서 작성한 글에 대해 등록한 위치를 볼 수 있습니다 | - 커뮤니티 글을 원하는 카테고리를 클릭해 카테고리별로 모아 볼 수 있습니다 |
+
+
+<br />
+<br />
+
+## 3. 팀원소개
+
