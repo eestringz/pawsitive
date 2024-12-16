@@ -93,7 +93,7 @@
 ### 발자국
 | 발자국 등록 | 발자국 상세 | 발자국 지도뷰 | 발자국 |
 | --- | --- | --- | --- |
-| ![Group_51](/exec/imgs/pawsitive_47.png) | ![Group_49](/exec/imgs/pawsitive_48.png) | ![Group_52](/uploads/bf1ffbb9663f66d408a86d31a0ba9f95/Group_49.png) | ![Group_48](/uploads/537e7d21b030361f3ee3281adef0e12e/Group_50.png) |
+| ![Group_47](/exec/imgs/pawsitive_47.png) | ![Group_48](/exec/imgs/pawsitive_48.png) | ![Group_49](/exec/imgs/pawsitive_49.png) | ![Group_50](/exec/imgs/pawsitive_50.png) |
 | - 커뮤니티 글을 작성할 수 있습니다<br />- 사진과 글 제목, 글 공개 여부, 카테고리, 내용, 기록할 위치 등을 입력하고 [완료] 버튼을 클릭해 글을 등록합니다<br />- 글을 등록하면 방금 작성한 글의 상세 페이지로 이동합니다 | - 커뮤니티 글 상세 페이지입니다 <br />- [<] 버튼을 눌러 커뮤니티 글을 모아볼 수 있습니다 | - [지도보기]를 클릭해서 작성한 글에 대해 등록한 위치를 볼 수 있습니다 | - 커뮤니티 글을 원하는 카테고리를 클릭해 카테고리별로 모아 볼 수 있습니다 |
 
 
